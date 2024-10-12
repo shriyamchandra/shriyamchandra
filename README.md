@@ -49,9 +49,22 @@ I’m a **developer** currently pursuing a **Bachelor of Technology** in Electro
 - **Tools:** Git, VSCode, Android Studio
 - **Databases:** Firebase, SQL
 
+## 📈 Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</div>
+
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shriyamchandra&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shriyamchandra&show_icons=true&theme=tokyonight" alt="Shriyam's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shriyamchandra&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ## 📫 Connect with Me
 
