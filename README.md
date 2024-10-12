@@ -1,8 +1,8 @@
 # Hey there, I'm Shriyam Chandra! 👋
 
-![Header](https://raw.githubusercontent.com/yourusername/yourrepo/main/header.png) <!-- You can add your custom banner here -->
+![Header](https://raw.githubusercontent.com/yourusername/yourrepo/main/header.png) <!-- Add your custom banner here -->
 
-I’m a **developer** and **tech enthusiast** currently pursuing a **Bachelor of Technology** in Electronics and Communication Engineering at the Indian Institute of Information Technology, Guwahati (2021–2025). I specialize in **web development**, **app development**, and have a strong foundation in **Data Structures**, **Algorithms**, and **Object-Oriented Programming (OOP)**. I enjoy solving complex problems and turning them into simple, efficient solutions.
+I’m a **developer** currently pursuing a **Bachelor of Technology** in Electronics and Communication Engineering at the Indian Institute of Information Technology, Guwahati (2021–2025). I specialize in **web development**, **app development**, and have strong expertise in **Data Structures**, **Algorithms**, and **Object-Oriented Programming (OOP)**. My main focus is on building impactful applications using technologies like **C++**, **Dart**, **React.js**, and **Python**.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shriyamchandra&show_icons=true&theme=tokyonight" alt="Shriyam's GitHub stats" />
@@ -18,13 +18,10 @@ I’m a **developer** and **tech enthusiast** currently pursuing a **Bachelor of
 ## 🚀 Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/Code-C%2B%2B-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=blue"/>
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=orange"/>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=yellow"/>
   <img src="https://img.shields.io/badge/Code-Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=blue"/>
-  <img src="https://img.shields.io/badge/Framework-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=blue"/>
   <img src="https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&logoColor=white&color=cyan"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=green"/>
-  <img src="https://img.shields.io/badge/Database-Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=yellow"/>
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=yellow"/>
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=orange"/>
   <img src="https://img.shields.io/badge/Tools-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blue"/>
   <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=black"/>
 </div>
@@ -34,14 +31,10 @@ I’m a **developer** and **tech enthusiast** currently pursuing a **Bachelor of
 - 🥇 Achieved **34th global rank** in **CodeChef STARTER 148D contest**.
 - 🚀 **Solved 800+ problems** on **LeetCode** and **GeeksforGeeks**, maintaining a **4-star rating** on both platforms.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shriyamchandra&theme=onedark" alt="Trophies" />
-</p>
-
 ## 💻 Technical Skills
-- **Languages:** C++, Java, Python, Dart, JavaScript
-- **Web Development:** React.js, Node.js, RESTful APIs, Tailwind CSS, Vite
-- **App Development:** Flutter, Firebase, Dart
+- **Languages:** C++, Dart, React.js, Python, Java
+- **Web Development:** React.js, Node.js, RESTful APIs, Vite
+- **App Development:** Flutter, Firebase
 - **Tools:** Git, VSCode, Android Studio
 - **Databases:** Firebase, SQL
 
