@@ -10,12 +10,21 @@ I’m a **developer** currently pursuing a **Bachelor of Technology** in Electro
 </p>
 
 ## 🔭 Projects
-- 🛒 [**E-commerce Web Application**](https://github.com/shriyamchandra/E-commerce) – Responsive platform with dynamic product pages, shopping cart, and real-time notifications.
-- 🤖 [**ChatGPT Clone**](https://github.com/shriyamchandra/ChatGpt-Clone) – A conversational AI clone using Google’s Gemini API with a React.js frontend and Node.js backend.
-- 🍽️ [**Meal Planning App**](https://github.com/shriyamchandra/Meals-App) – Discover and save recipes, with filters for dietary needs and smooth animations in Flutter.
-- 🛍️ [**Shopping List App**](https://github.com/shriyamchandra/Shopping-List) – Real-time product management with Firebase and iOS-style animations.
+
+- 🛒 [**E-commerce Web Application**](https://github.com/shriyamchandra/E-commerce)  
+  Responsive platform with dynamic product pages, shopping cart, and real-time notifications.
+
+- 🤖 [**ChatGPT Clone**](https://github.com/shriyamchandra/ChatGpt-Clone)  
+  A conversational AI clone using Google’s Gemini API with a React.js frontend and Node.js backend.
+
+- 🍽️ [**Meal Planning App**](https://github.com/shriyamchandra/Meals-App)  
+  Discover and save recipes, with filters for dietary needs and smooth animations in Flutter.
+
+- 🛍️ [**Shopping List App**](https://github.com/shriyamchandra/Shopping-List)  
+  Real-time product management with Firebase and iOS-style animations.
 
 ## 🚀 Tech Stack
+
 <div align="center">
   <img src="https://img.shields.io/badge/Code-C%2B%2B-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=blue"/>
   <img src="https://img.shields.io/badge/Code-Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=blue"/>
@@ -27,11 +36,13 @@ I’m a **developer** currently pursuing a **Bachelor of Technology** in Electro
 </div>
 
 ## 🎯 Achievements
+
 - 🏆 Qualified for **Round 2** of **Flipkart GRID 6.0**, finishing in the top 320 teams out of 4.5 lakh participants.
 - 🥇 Achieved **34th global rank** in **CodeChef STARTER 148D contest**.
 - 🚀 **Solved 800+ problems** on **LeetCode** and **GeeksforGeeks**, maintaining a **4-star rating** on both platforms.
 
 ## 💻 Technical Skills
+
 - **Languages:** C++, Dart, React.js, Python, Java
 - **Web Development:** React.js, Node.js, RESTful APIs, Vite
 - **App Development:** Flutter, Firebase
@@ -43,11 +54,20 @@ I’m a **developer** currently pursuing a **Bachelor of Technology** in Electro
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shriyamchandra&layout=compact&theme=tokyonight)
 
 ## 📫 Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/shriyamchandra"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/shriyamchandra"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://leetcode.com/u/ShriyamThor/"><img src="https://img.shields.io/badge/LeetCode-Profile-green?style=for-the-badge&logo=leetcode"/></a>
-  <a href="https://codeforces.com/profile/thor_odinson1"><img src="https://img.shields.io/badge/Codeforces-Expert-red?style=for-the-badge&logo=codeforces"/></a>
+  <a href="https://www.linkedin.com/in/shriyamchandra">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/shriyamchandra">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://leetcode.com/u/ShriyamThor/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-green?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://codeforces.com/profile/thor_odinson1">
+    <img src="https://img.shields.io/badge/Codeforces-Expert-red?style=for-the-badge&logo=codeforces"/>
+  </a>
 </p>
 
 <p align="center">💡 I’m always open to collaboration and learning new things! Feel free to reach out. 😊</p>
