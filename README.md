@@ -1,13 +1,13 @@
 # Hey there, I'm Shriyam Chandra! 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer%20%40%20CGI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rating-5--Star%20CodeChef-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-CGI-blue?style=for-the-badge&logo=accenture" />
+  <img src="https://img.shields.io/badge/IIIT%20Guwahati-Alumnus-red?style=for-the-badge" />
 </p>
 
-I am a **Software Engineer at CGI** and a final-year student at the **Indian Institute of Information Technology, Guwahati**. I specialize in building high-performance **Distributed Systems**, **Backend Cloud Architecture**, and **GenAI Integration**. 
+I am a **Software Engineer at CGI** and a graduate of the **Indian Institute of Information Technology, Guwahati**. I specialize in building scalable **Distributed Systems**, **Backend Cloud Architecture**, and **GenAI-powered applications**. 
 
-My expertise lies in **Java (Spring Boot)**, **Python (FastAPI)**, and **Next.js**, with a strong foundation in Competitive Programming and System Design.
+With a Max Rating of **2135 on LeetCode** and a **5-Star rating on CodeChef**, I am passionate about solving complex algorithmic challenges and architecting high-availability systems using **Java (Spring Boot)**, **Python**, and **Next.js**.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shriyamchandra&show_icons=true&theme=tokyonight" alt="Shriyam's GitHub stats" height="170" />
@@ -17,27 +17,30 @@ My expertise lies in **Java (Spring Boot)**, **Python (FastAPI)**, and **Next.js
 ## 💼 Experience
 
 ### 💻 CGI | Software Engineer
-*Aug 2025 – Present*
+*Aug 2024 – Present*
 - **Distributed Systems:** Architected a scalable Book Management System using **Java 17** and **Spring Boot**, ensuring high availability and fault tolerance.
-- **Query Optimization:** Designed multi-tiered RESTful APIs for CRUD operations on relational databases, reducing query latency by **40%** via optimized indexing.
-- **GenAI Integration:** Integrated GenAI APIs to process natural language queries and run predictions for personalized content recommendations.
+- **Query Optimization:** Reduced database query latency by **40%** via optimized indexing and multi-tiered RESTful API design.
+- **GenAI Integration:** Integrated GenAI APIs to process natural language queries and provide personalized content recommendations.
 - **Security & RBAC:** Implemented **Spring Security with JWT**, securing 15+ REST endpoints against unauthorized access.
 
 ### 🧠 Geeekd | Problem Setter Intern (DSA)
-*Jan 2025 – July 2025*
-- Created **100+ original algorithmic problems** (DP, Greedy, Optimization Math) with rigorous complexity analysis for technical hiring assessments.
+*Jan 2024 – July 2024*
+- Created **100+ original algorithmic problems** (DP, Greedy, Optimization Math) for technical hiring assessments.
 - Designed comprehensive test suites covering edge cases to ensure bug-free problem sets for competitive programming platforms.
 
 ## 🔭 Featured Projects
 
-- 🔐 **[Secret Guardian](https://github.com/shriyamchandra)** | *Next.js 15, FastAPI, Google Gemini API*
+- 🔐 **[Secret Guardian](https://secret-guardian.vercel.app)** | *Next.js 15, FastAPI, Google Gemini API*
   - Scalable security tool scanning repos for 35+ secret types with **<5s scan time**.
-  - Achieved **70% false positive reduction** using AI-powered remediation and Shannon entropy analysis.
-  - Implemented 100% secret masking and rate limiting for secure architecture.
+  - Achieved **70% false positive reduction** via Shannon entropy analysis and AI-powered remediation.
 
 - 💡 **[IoT Edge Diagnostics & Smart Lighting](https://github.com/shriyamchandra)** | *Raspberry Pi, FastAPI, React.js*
   - Built a fault-tolerant IoT gateway utilizing **Mutex locks** for thread-safe concurrent execution.
-  - Slashed BOM costs by **95%** via predictive virtual sensing and reduced energy wastage by **98%** using adaptive PWM dimming algorithms.
+  - Slashed BOM costs by **95%** and reduced energy wastage by **98%** via adaptive PWM dimming algorithms.
+
+- 📄 **[Adaptive OCR Tool](https://shriyamchandra-ocr-tool-app-j0apqb.streamlit.app/)** | *Python, OpenCV, Tesseract*
+  - Intelligent text extraction pipeline with **95% accuracy** on complex documents.
+  - Optimized image pre-processing to reduce extraction time to **<2 seconds per page**.
 
 ## 🚀 Tech Stack
 
@@ -48,11 +51,11 @@ My expertise lies in **Java (Spring Boot)**, **Python (FastAPI)**, and **Next.js
 
 ## 🎯 Achievements & Coding Profile
 
-- ⭐ **CodeChef:** 5-Star Rated (Global Rank 34 in STARTER 148D)
-- 🔴 **Codeforces:** Expert (Max Rating: [Your Rating Here])
-- 🏆 **LeetCode:** 2135 Rating (Solved 1000+ Problems)
-- 💻 **GeeksforGeeks:** 4-Star (Global Rank 45 in Weekly Contest 172)
-- 🚀 **Hackathons:** Ranked Top 320 in **Flipkart GRID 6.0** (National Level) out of 450,000+ teams.
+- ⭐ **CodeChef:** [5-Star Rated (Global Rank 34)](https://www.codechef.com/users/shriyamchandra)
+- 🔴 **Codeforces:** [Expert (thor_odinson1)](https://codeforces.com/profile/thor_odinson1)
+- 🏆 **LeetCode:** [2135 Rating (Solved 1000+ Problems)](https://leetcode.com/u/ShriyamThor/)
+- 💻 **GeeksforGeeks:** [4-Star (Global Rank 45)](https://www.geeksforgeeks.org/user/shriyamchandra/)
+- 🚀 **Hackathons:** Ranked Top 320 in **Flipkart GRID 6.0** out of 450,000+ teams.
 
 ## 📫 Connect with Me
 
